@@ -1,8 +1,8 @@
-﻿Regisztrációra van szükség, ha le akar állni, és elindítja az órát az alkalmazásból. Különben ne zavarjon.
+﻿Az óre elindításához és leállításához regisztrációra van szükség.
 
-Ha készüléke egy állomáson áll, regisztrálja az állomás nevét; különben regisztráljon a találkozón résztvevők által ismert személynévvel.
+Ha állomási szolgálaton van, regisztrálja az állomás nevét; különben regisztráljon a saját személynevével.
 
-Akkor is regisztráljon jelszót, ha a rendszergazda ezt megköveteli az óra leállításához és elindításához.
+Ha a rendszergazda megköveteli, az óra leállításához és elindításához regisztráljon jelszót.
 
 Az óra beállításainak kezeléséhez mind a személyes nevét, mind az óra fő jelszavát regisztrálni kell.
 
